@@ -1,0 +1,46 @@
+A) http://download.eclipse.org/eclipse/updates/4.7/
+	1)Insatll Eclipse Platform
+	2)Install Plugin Development Tools
+
+B) http://cucumber.github.com/cucumber-eclipse/update-site
+
+
+   -DarchetypeGroupId=io.cucumber           
+   -DarchetypeArtifactId=cucumber-archetype 
+   -DarchetypeVersion=2.3.1.2  
+
+C) TestNg Download
+
+   http://beust.com/eclipse/
+
+Selenium
+
+Webdriver
+Locators - ID , Name , Class , Tag , LinkText , Xpath
+select - dropdown , multiple select
+File upload using sendkeys
+
+Discuss a little on TestNg
+
+TDD - Test Driven Development 
+
+TestNg (Testing Next Generation)- unit testing framework 
+A very powerful tool has lot of feature to design and execute test cases with generating rich report 
+
+
+Why Test Ng - 
+
+to design Test cases in a systematic way
+Very Good HTML report generates
+lots of annotation
+priorites of test cases(define sequences)  
+dependency feature 
+grouping of test cases 
+data provider (run the test case with lot of data)
+Rich Reporting 
+
+Open source free available in the form of Jar files
+
+Java unit testing framework
+
+
